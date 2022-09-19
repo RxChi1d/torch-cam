@@ -26,5 +26,6 @@ There are several methods to use:
          "FullGrad": FullGrad}
 
 The range of the rgb_image to input into the function is must between 0 and 1.  
+  
 If you do not want to display the result, please set the `display=False`.  
 To save the result, `save_path=your_path`
