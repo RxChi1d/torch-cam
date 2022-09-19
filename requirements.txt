@@ -1,0 +1,6 @@
+numpy
+matplotlib
+torch
+Pillow
+torchvision
+pytorch_grad_cam
